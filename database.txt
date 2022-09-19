@@ -1,0 +1,7 @@
+braggy123@gmail.com,newPassword
+Test@test.com,Test#123
+Naruto@mail.com,Uzumaki@123
+joke@test.com,Test@12345
+abc@gmail.com,Test@123
+abc2@gmail.com,Abc@12
+
